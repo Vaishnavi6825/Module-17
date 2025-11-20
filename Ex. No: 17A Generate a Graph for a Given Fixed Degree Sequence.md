@@ -22,6 +22,8 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 
 ```python
 """
+Reg no: 212222060121
+Name : Kiruthika M
 A Python program to demonstrate the adjacency
 list representation of the graph
 """
